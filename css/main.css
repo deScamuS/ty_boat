@@ -231,7 +231,7 @@ a:focus {
 .hero-area {
   background: url(../img/hero2.jpg) no-repeat;
   background-size: cover;
-  background-position: center bottom;
+  background-position: center center;
   color: #fff;
   overflow: hidden;
   padding: 55px 0;
