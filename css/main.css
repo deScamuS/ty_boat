@@ -229,7 +229,7 @@ a:focus {
   }
 }
 .hero-area {
-  background: url(../img/hero2.jpg) no-repeat;
+  background: url(../img/tydeck.jpg) no-repeat;
   background-size: cover;
   background-position: center center;
   color: #fff;
@@ -533,7 +533,7 @@ a:focus {
 }
 #testimonial {
   width: 100%;
-  background: url(../img/lake.jpg);
+  background: url(../img/tydeck.jpg);
   opacity: 0.87;
 }
 #testimonial .section-title {
