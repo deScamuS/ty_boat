@@ -305,7 +305,7 @@ a:focus {
   color: #3b456f;
 }
 #features .features .features-text {
-  padding-left: 80px;
+  padding-left: "50px";
 }
 #features .features .features-text p {
   margin: 0;
